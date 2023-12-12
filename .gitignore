@@ -1,2 +1,30 @@
-node_modules
+# dependencies
+/node_modules
+
+# production
+/build
+
+# testing
+/coverage
+
+# environment
+.env
+.env.development
+.env.test
+.env.production
+
+# development and testing tools
+.DS_Store
+*.swp
+.bash_history
+.cache
+.project
+.vscode
+*.sublime-workspace
+npm-debug.log
+
+# system files
 .gitignore
+.editorconfig
+README.md
+LICENSE
