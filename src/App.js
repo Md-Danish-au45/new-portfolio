@@ -14,6 +14,7 @@ import ProjectApp from "./pages/Project/ProjectApp";
 import ProjectGame from "./pages/Project/ProjectGame";
 
 import RouterScrollTop from "./components/ScrollToTop/RouterScrollTop"
+import PageNotFount from './components/PageNotFount/PageNotFount';
 
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
         setLoading(true)
         setTimeout(() => {
             setLoading(false)
-        }, 4000)
+        }, 3000)
     }, [])
     return (
         <>
@@ -33,19 +34,21 @@ function App() {
 
                     <div className='loading-pag'>
                         <div className="loader">
-                            <span>=(Md Danish)=></span>
-                            <span>=(Md Danish)=></span>
+                            <span>(Md Danish)</span>
+                            <span>(Md Danish)</span>
                         </div>
                     </div>
 
                     :
 
                     <Routes>
-                        <Route path="/" element={<Home />}></Route>
+                        <Route exact path="/" element={<Home />}></Route>
                         <Route exact path="/about" element={<About />}></Route>
                         <Route exact path="/service" element={<Services />}></Route>
                         <Route exact path="/project" element={<Project />}></Route>
                         <Route exact path="/project/app" element={<ProjectApp />} />
+                        <Route exact path="*" element={<PageNotFount />}
+                />
                     </Routes>
 
             }
