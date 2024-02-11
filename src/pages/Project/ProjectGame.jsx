@@ -101,9 +101,9 @@ const ProjectGame = () => {
                                     defaultMessage="You must guess the 2 pairs of cards in the shortest time and with fewer clicks."
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
+                            {/* <div className="eins-modal-text-2">
                                 <span>Link:</span> <a href="https://MdDanish.github.io/Memorama" target="_blank">https://MdDanish.github.io/Memorama</a>
-                            </div>
+                            </div> */}
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -143,9 +143,9 @@ const ProjectGame = () => {
                                     defaultMessage="A chess game that allows you to play against another user."
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
+                            {/* <div className="eins-modal-text-2">
                                 <span>Link:</span> <a href="https://https://MdDanish.github.io/Ajedrez2.0/" target="_blank">https://https://MdDanish.github.io/Ajedrez</a>
-                            </div>
+                            </div> */}
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -185,9 +185,9 @@ const ProjectGame = () => {
                                     defaultMessage="Inspired by the classic 90's arcade game."
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
+                            {/* <div className="eins-modal-text-2">
                                 <span>Link:</span> <a href="https://MdDanish.github.io/Juego-de-la-Serpiente/" target="_blank">https://MdDanish.github.io/Juego-de-la-Serpiente/</a>
-                            </div>
+                            </div> */}
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -226,9 +226,9 @@ const ProjectGame = () => {
                                     defaultMessage="It has more than 400 questions with multiple options to answer."
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
+                            {/* <div className="eins-modal-text-2">
                                 <span>Link:</span> <a href="https://MdDanish.github.io/Preguntas-y-Respuestas/" target="_blank">https://MdDanish.github.io/Preguntas-y-Respuestas/</a>
-                            </div>
+                            </div> */}
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
