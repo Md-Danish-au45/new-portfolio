@@ -68,7 +68,7 @@ const Project = () => {
                                 <span> -</span> Redux
                                 <span> -</span> Bootstrap
                                 <span> -</span> Javascript
-                                <span> -</span> Solidity
+                                {/* <span> -</span> Solidity */}
                                 <span> -</span> NodeJS
                                 <span> -</span> MongoDB
                             </p>
@@ -115,7 +115,7 @@ const Project = () => {
                                 <span> -</span> Redux
                                 <span> -</span> NodeJS
                                 <span> -</span> ExpressJS
-                                <span> -</span> Sequelize
+                                {/* <span> -</span> Sequelize */}
                                 <span> -</span> PostgreSQL
                             </p>
                             {/* <a href="https://pi-dogs-main-ashy.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
