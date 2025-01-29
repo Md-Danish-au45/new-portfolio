@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.f471ed7f.css",
-    "main.js": "/new-portfolio/static/js/main.a2d53456.js",
+    "main.js": "/new-portfolio/static/js/main.9fcc1da8.js",
     "static/js/787.ae0d8d37.chunk.js": "/new-portfolio/static/js/787.ae0d8d37.chunk.js",
     "static/media/Thumbs.db": "/new-portfolio/static/media/Thumbs.735170b30af6b4c4247f.db",
     "static/media/proyecto-app-17-com.png": "/new-portfolio/static/media/proyecto-app-17-com.1cacb50e9e33a1ece5a4.png",
@@ -10,7 +10,6 @@
     "static/media/proyecto-17-com.png": "/new-portfolio/static/media/proyecto-17-com.2bc063c32eca5ac09842.png",
     "static/media/proyecto-app-18-com.png": "/new-portfolio/static/media/proyecto-app-18-com.c68f0badd89d43b76378.png",
     "static/media/canvas.png": "/new-portfolio/static/media/canvas.bfdfa7f0b1bdd99655f8.png",
-    "static/media/cv.pdf": "/new-portfolio/static/media/cv.831ce7b79a5309888d22.pdf",
     "static/media/proyecto-5-com.png": "/new-portfolio/static/media/proyecto-5-com.6ba644471266de376326.png",
     "static/media/proyecto-11-com.png": "/new-portfolio/static/media/proyecto-11-com.f62a13d09a93136aaab3.png",
     "static/media/proyecto-6-com.png": "/new-portfolio/static/media/proyecto-6-com.793e6636e20b75e30b41.png",
@@ -24,6 +23,7 @@
     "static/media/proyecto-15-com.png": "/new-portfolio/static/media/proyecto-15-com.9be94c5442fa67ddaa6a.png",
     "static/media/proyecto-16-com.png": "/new-portfolio/static/media/proyecto-16-com.0d476eb48380c6e5535f.png",
     "static/media/proyecto-app-13.jpg": "/new-portfolio/static/media/proyecto-app-13.5a99f88f484ae5babf89.jpg",
+    "static/media/cv.pdf": "/new-portfolio/static/media/cv.2a1898cc8358b99c0acc.pdf",
     "static/media/home.jpg": "/new-portfolio/static/media/home.37b979301727e25eeb8b.jpg",
     "static/media/proyecto-7.jpg": "/new-portfolio/static/media/proyecto-7.e7d676d88b90fb05bf3e.jpg",
     "static/media/proyecto-game-4.jpg": "/new-portfolio/static/media/proyecto-game-4.6c9264f16b63b52d1b04.jpg",
@@ -62,11 +62,11 @@
     "static/media/proyecto-app-2.jpg": "/new-portfolio/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/new-portfolio/index.html",
     "main.f471ed7f.css.map": "/new-portfolio/static/css/main.f471ed7f.css.map",
-    "main.a2d53456.js.map": "/new-portfolio/static/js/main.a2d53456.js.map",
+    "main.9fcc1da8.js.map": "/new-portfolio/static/js/main.9fcc1da8.js.map",
     "787.ae0d8d37.chunk.js.map": "/new-portfolio/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f471ed7f.css",
-    "static/js/main.a2d53456.js"
+    "static/js/main.9fcc1da8.js"
   ]
 }
